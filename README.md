@@ -1,2 +1,2 @@
 # MCSD_Course-Solucao-CSharpExercise
-C# Exercice MCSD
+C# Exercise MCSD
